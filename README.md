@@ -2,10 +2,7 @@
 
 ![01.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i01.jpg) 
 
-This is my first photo of Iran but I am actually sitting at the airport right now on my way to Berlin.
-Photo: I escaped from Turkmenistan and within minutes of being in Iran I was offered a celebratory cup of non...alcoholic...beer.
-
-Mashad, Iran
+This is my first photo of Iran but I am actually sitting at the airport right now on my way to Berlin. I escaped from Turkmenistan and within minutes of being in Iran I was offered a celebratory cup of non...alcoholic...beer.
 
 Random. The election was a couple of days ago and I think I was accidentally let into the country at the wrong time. Yesterday the immigration police detained me for a few hours and interrogated me. These were a few highlights of my conversation:
 
@@ -35,17 +32,17 @@ Random. The election was a couple of days ago and I think I was accidentally let
 
 I swear these were actual bits of conversation. I come off as defensive because we were summoned across town for no reason. We showed up at the time they demanded which was lunch and they weren't even there and made us wait. The general tone was them being forced to interrogate us because it was our fault for being in Iran during their elections. After about four hours of wasted time the gentlemen kindly interrogating me explained how I should have been more aware of when the elections were in Iran because I wasn't supposed to be there. Because I wasn't aware of their mistake it was my fault for being in their country at the wrong time. I enjoyed my time in Iran but it is hard to love a country with regular police, social police, special police, and immigration police. Read: Social Police, whose main job is to make sure head scarves stay on heads and women don't wear too much make up.
 
+> Mashad, Iran
+
 ![02.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i02.jpg)
 
 This was surprisingly normal to me because by the time I got to Iran I had already spent four or five months in the world of Islam.
 
 ![03.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i03.jpg)
 
-Tehran bazaar, Iran
-
 The Golestan Palace was used for formal royal receptions durig the Pahlavi era in Tehran. More interestingly, the structure on the right is called a 'windcatcher' which is a 'traditional Persian architectural element to create natural ventilation in building'. I call it an OG AC, sucka.
 
-Tehran, Iran
+> Tehran Bazaar, Iran
 
 ![04.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i04.jpg) 
 
@@ -55,7 +52,7 @@ They actually renamed the former embassy to something that roughly translates to
 
 Note: I didn't meet a single local that actually felt this way.
 
-Argo, Iran
+> Argo, Iran
 
 ![05.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i05.jpg)
 
@@ -63,7 +60,7 @@ I only usually eat at restaurants with locals present to copy and point at their
 
 I love the working man's food.
 
-Tehran, Iran
+> Tehran, Iran
 
 ![06.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i06.jpg)
 
@@ -77,7 +74,7 @@ Iran may have been full of the friendiest people I have ever met...minus this ol
 
 I think he kept losing his place and starting a new scam. I snapped this photo somewhere between scam 2 and 3.
 
-Esfahan, Iran
+> Esfahan, Iran
 
 ![07.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i07.jpg)
 
@@ -89,25 +86,25 @@ It is okay as people just assume I am Chinese or even Afghan. I was told that my
 
 Whenever I ventured into a holy shrine I would just tell people I was Malaysian...
 
-Tehran, Argo, Iran
+> Tehran, Argo, Iran
 
 ![08.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i08.jpg) 
 
 This was the ancient entrance of Tehran updated a few decades ago with gattling gun and RPG.
 
-Tehran, Iran
+> Tehran, Iran
 
 ![09.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i09.jpg)
 
 I love it when someone want me to take a photo of their food. It happens more than you would think.
 
-Tehran Bazaar, Iran
+> Tehran Bazaar, Iran
 
 ![10.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i10.jpg)
 
 I had a really nice conversation with an older gentleman while taking this night shot. He explained to me how a few years ago the government built a dam up the river halting all the water in the river. He continued in an even more non chalant sort of way 'but we went and tore it down so now we have water here again'. Lesson: don't mess with Iranians and their rivers.
 
-Esfahan, Iran
+> Esfahan, Iran
 
 ![11.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i11.jpg)
 
@@ -115,7 +112,7 @@ Esfahan, Iran
 
 1,700 year old miners preserved in a collapsed salt mine!
 
-Tehran, Iran
+> Tehran, Iran
 
 ![12.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i12.jpg)
 
@@ -123,7 +120,7 @@ Tehran, Iran
 
 This is the Imam Khomeini mosque on the outskirts of Iran. Khomeini's face is plastered on every single public building in Iran. I assumed his mosque and final resting place would be a bit more ornate. It is a pile of concrete and steel towering over the country side.
 
-Tehran, Iran
+> Tehran, Iran
 
 ![13.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i13.jpg)
 
@@ -135,13 +132,13 @@ The center of Tehran is all guitar shops.
 
 Iranian architecture is the most exquisite I have ever seen. This is the sixth floor music hall in the Ali Qupa Palace. I left Iran with chronic neck pain because it was always cocked upwards.
 
-Isfahan, Iran
+> Isfahan, Iran
 
 ![15.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i15.jpg)
 
 Iran may be the safest I have ever felt in any country I have been to. Read: that includes the US, Canada, and Europe. Every single conversation I had included 'welcome to Iran' somewhere. These guys didn't speak a word of English when we met. They disappeared for a bit and found me as I was walking out to 'welcome to Iran' me proudly. When they disappeared they found someone who spoke English and learned.
 
-Esfahan, Iran
+> Esfahan, Iran
 
 ![16.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i16.jpg)
 
@@ -158,7 +155,7 @@ According to a tradition dating back over 3000 years, bodies were arranged on th
 
 So you are telling me that when Reagan was being sworn in as Governor of California Zoroastrians living in Iran were leaving corpses in a tower at the top of a mountain to have their flesh cleaned off by desert vultures as an ancient tradition before burial...!? I love history.
 
-Yazd, Iran
+> Yazd, Iran
 
 ![18.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i18.jpg)
 
@@ -168,7 +165,7 @@ This is the tight climb through the Shaking Minaret in Karanaq, Iran. As I was t
 
 I only ordered the camel stew because it was the cheapest thing on the menu. Who knew camel was the working man's meat.
 
-Kerman, Iran
+> Kerman, Iran
 
 ![20.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i20.jpg)
 
@@ -184,9 +181,7 @@ Guess:
 
 Is this an ancient Iranian bird tower used as a home to house 3000+ pigeons to collect their feces as fertilizer.
 
--or
-
-A famous Gaudi building.
+... or, A famous Gaudi building.
 
 ![22.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i22.jpg)
 
@@ -200,11 +195,9 @@ Probably one of the things I never thought I would leave in photography.
 
 So usually having one or two minarets means which type of mosque it is: Sunni or Shi'ite. This mosque has none because it is meant for both.
 
-Kerman, Iran
+> Kerman, Iran
 
 ![24.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i24.jpg)
-
-Hi,
 
 This is my Kurdish friend I met in Iran climbing a massive hill leading to the most famous Zorostrian fire temple carrying a baby that looks like a balloon filled with ice cream...
 
@@ -218,13 +211,13 @@ That is how you smash a thought out.
 
 "I hope noone else sees us."
 
-Imam Square, Esfahan
+> Imam Square, Esfahan
 
 ![26.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i26.jpg)
 
 So this looks Muslim but it is really an Armenian Church wearing a mosque type hat.
 
-Shiraz, Iran
+> Shiraz, Iran
 
 Interesting Iranian fact: Christians and Catholics have to wear head scares; not just Muslim women.
 
@@ -232,9 +225,10 @@ Interesting Iranian fact: Christians and Catholics have to wear head scares; not
 
 The scary thing about how amazing the architecture in Iran: everything looks like this:
 
-Kerman, Iran;
-
 Random fact: Kerman is a small town close to the hottest place on Earth: Kaluts (photos later)
+
+> Kerman, Iran
+
 
 ![28.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i28.jpg)
 
@@ -244,14 +238,14 @@ Persians could have had slushies around 1700 BC. --
 
 During the winter, ice and snow would be taken into the ice house and packed with insulation, often straw or sawdust. It would remain frozen for many months, often until the following winter, and could be used as a source of ice during summer months. The main application of the ice was the storage of perishable foods, but it could also be used simply to cool drinks, or allow ice-cream and sorbet desserts to be prepared. During its heyday a typical commercial ice house would store 30,000 tons in a 30 feet by 100 feet by 45 feet high building."
 
-Meybod, Iran
+> Meybod, Iran
 
 ![29.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i29.jpg)
 
 I was walking down the street and noticed some delicious Khoresht-e Bademjan launching its savory aroma out of it's windows.
 Jokes, I was actually starving and figured 'that goey and pretty gross looking stuff may be the only food I see in awhile'.
 
-Shiraz, Iran
+> Shiraz, Iran
 
 ![30.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i30.jpg)
 
@@ -264,7 +258,7 @@ neat
 
 "...but we have oil up to our eyes! Not our necks but up top to our eyes up here!"
 
-Esfahan, Iran talking about polictics
+> Esfahan, Iran, talking about polictics
 
 ![32.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i32.jpg)
 
@@ -272,7 +266,7 @@ See America and Iran used to be pals.
 
 What world the world look like if everything just listened to the pin?
 
-Shiraz bazaar, Iran
+> Shiraz Bazaar, Iran
 
 ![33.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i33.jpg)
 
@@ -280,7 +274,7 @@ This is the Vakil mosque in Shiraz, Iran. The only thing more impressive than th
 
 ![34.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i34.jpg)
 
-Masjid Jameh, Yazd, Iran
+> Masjid Jameh, Yazd, Iran
 
 ![35.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i35.jpg)
 
@@ -300,7 +294,7 @@ I cannot even describe Luts, Iran. It is the hottest place on earth and...not su
 
 I really cherish the odd interactions I had in Iran. I came into this restaurant every day three days in a row to order chicken and rice. Chicken and rice was the only thing I knew how to say in farsi at the time so I just kept telling every one I really liked chicken and rice...The first day the owner said 'OK' as I was grabbing my food. The second evening he proudly greeted me with a 'Good morning!'. And on that third day he smiled, shook my hand, and told me how I was his friend.
 
-Shiraz, Iran
+> Shiraz, Iran
 
 ![39.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i39.jpg)
 
@@ -321,20 +315,20 @@ Noone can actually explain the odd rock formations in Kaluts, Iran. Some say it 
 
 By the time I got to Iran from Beijing to Tehran I had already taken over 17,000 photos in 3.5 months. I still had the energy to crawl into a cubby and taken a photo!
 
-Nasir-el-Molk mosque, the most photographed mosque in southern Iran
+> Nasir-el-Molk mosque, the most photographed mosque in southern Iran
 
 
 ![43.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i43.jpg)
 
 There is beach house barbie. There is roller blade barbie. And now there is an Islam barbie.
 
-Shiraz bazaar, Iran
+> Shiraz bazaar, Iran
 
 ![44.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i44.jpg)
 
 I have been backpacking for something like 29 months and now this is what it looks like when a hotel offers free breakfast. You end up throwing a trash bag in a backpack you cleverly name your 'food sleeve' which sits by your feet during the meal.
 
-Ahwaz, Iran
+> Ahwaz, Iran
 
 Cool fact: This food was stole in Ahwaz which is one of the top ten hottest cities in the world.
 
@@ -354,13 +348,13 @@ Persopelis is an ancient city that dates to around 515 BC and not just that Fren
 
 Noone will ever understand how it feels to run and climb through a desert that is coincidentally the hottest place in the world snapping photos like a mad man before the sun sets. This landscape is unique to only Iran.
 
-Kaluts, Iran
+> Kaluts, Iran
 
 ![48.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i48.jpg)
 
 Sometimes the story is a simple one: cute kid, genuine smile, f/1.4
 
-Shiraz, Iran
+> Shiraz, Iran
 
 ![49.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i49.jpg)
 
@@ -376,7 +370,7 @@ http://www.livius.org/aj-al/alexander/alexander_t12.html
 "Three, what do you want on it?"
 I stood there thinking for a few minutes and after awhile just laughed out loud, "YYF"
 
-Shiraz, Iran
+> Shiraz, Iran
 
 ![51.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i51.jpg)
 
@@ -384,7 +378,7 @@ I was accidentally let into Iran during the elections which surprised everybody.
 
 Part of me expected protests at some point and the rest of me was embarrassed because I thought it would make for good photographs.
 
-Tehran, Iran
+> Tehran, Iran
 
 ![52.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i52.jpg)
 
@@ -392,7 +386,7 @@ This is Chogha Zanbil the best preserved stepped pyramid in the world. The only 
 
 ![53.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i53.jpg)
 
-Azadi Square, Tehran:
+> Azadi Square, Tehran:
 
 "It has been the site of two of Iran's most epochal protest movements. In 1979, thousands of Iranians gathered in Azadi — which means Freedom — Square for numerous protests that eventually led to the overthrow of the Shah. Almost 30 years later, another generation of Iranians flooded the square, this time trying to start a revolution to throw out the once revolutionary regime."
 
@@ -402,7 +396,11 @@ http://www.time.com/time/specials/packages/article/0,28804,2047066_2047070_20470
 
 This is the last photo I took in Iran and also the last one I will post.
 
-Grand Bazaar, Tehran, Iran
+> Grand Bazaar, Tehran, Iran
+
+## Bonus
+
+> Jason came to visit me after his trip to Iran, and gave me Rushdie's *Fury*. Here we are at Tempelhof.
 
 ![55.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i55.jpg)
 
