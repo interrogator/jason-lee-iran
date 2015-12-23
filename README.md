@@ -8,33 +8,7 @@
 
 This is my first photo of Iran but I am actually sitting at the airport right now on my way to Berlin. I escaped from Turkmenistan and within minutes of being in Iran I was offered a celebratory cup of non...alcoholic...beer.
 
-Random. The election was a couple of days ago and I think I was accidentally let into the country at the wrong time. Yesterday the immigration police detained me for a few hours and interrogated me. These were a few highlights of my conversation:
-
-"It is illegal for Americans to be in Iran during our election. Why are you here?"
-
-"Sir, why did you let me in?"
-
-"We could lock you up in your hotel for the rest of your time in Iran."
-
-"Are you threatening me? That would make a great story."
-
-"Do you understand why you are here?"
-
-"Because your country made a mistake and approved my visa for a time period that encompassed your own elections."
-
-"In America your government would do the same thing."
-
-"Have you ever been? I don't know if my country would detain and interrogate tourists they issued visas to."
-
-"Why do you think you are here?"
-
-"For no reason at all. This is my last day in Iran and I am spending it detained for absolutely no reason. You summoned us as we were being good tourists trying to see your country and on our way to Darband for the day. I will never be able to come to Iran again due to your strenuous visa process and every hour is precious and ended up being very expensive to me."
-
-"Iran is expensive? If you wanted more time you should have taken flight through our country."
-
-"Why are you giving me life lessons about traveling when you are wasting my time? Are you serious?"
-
-I swear these were actual bits of conversation. I come off as defensive because we were summoned across town for no reason. We showed up at the time they demanded which was lunch and they weren't even there and made us wait. The general tone was them being forced to interrogate us because it was our fault for being in Iran during their elections. After about four hours of wasted time the gentlemen kindly interrogating me explained how I should have been more aware of when the elections were in Iran because I wasn't supposed to be there. Because I wasn't aware of their mistake it was my fault for being in their country at the wrong time. I enjoyed my time in Iran but it is hard to love a country with regular police, social police, special police, and immigration police. Read: Social Police, whose main job is to make sure head scarves stay on heads and women don't wear too much make up.
+Random. The election was a couple of days ago and I think I was accidentally let into the country at the wrong time. Yesterday the immigration police detained me for a few hours and interrogated me.
 
 > Mashad, Iran
 
