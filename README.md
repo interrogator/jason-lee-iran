@@ -400,7 +400,7 @@ This is the last photo I took in Iran and also the last one I will post.
 
 ## Bonus
 
-> Jason came to visit me after his trip to Iran, and gave me Rushdie's *Fury*. Here we are at Tempelhof.
+> Daniel notes: Jason came to visit me after his trip to Iran, and gave me Rushdie's *Fury*. Here we are at Tempelhof.
 
 ![55.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i55.jpg)
 
