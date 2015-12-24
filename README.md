@@ -8,8 +8,6 @@
 
 This is my first photo of Iran. I escaped from Turkmenistan and within minutes of being in Iran I was offered a celebratory cup of non-alcoholic-beer.
 
-The election was a couple of days ago and I think I was accidentally let into the country at the wrong time. On my way out, en route to Berlin, the immigration police detained me for a few hours and interrogated me.
-
 > Mashad, Iran
 
 ---
@@ -204,7 +202,7 @@ Tangent: I grew up looking at street photography at 35mm. A decade ago people st
 
 Guess. Is this:
 
-1. an ancient Iranian bird tower used as a home to house 3000+ pigeons to collect their feces as fertilizer.
+1. an ancient Iranian bird tower used as a home to house 3000+ pigeons to collect their feces as fertilizer
 2. A famous Gaudi building?
 
 ---
@@ -294,7 +292,7 @@ These ridiculous plastic clacker toy things are an epidemic in Iran. Every singl
 
 Random: this kid isn't actually Iranian, but a displaced Afghan. Kerman, Iran was apparently a dangerous place a few years ago and Lonely Planet warns against 'going outside at night because many people are addicted to drugs'.
 
-neat
+Neat.
 
 ---
 
@@ -366,7 +364,7 @@ This was one of the fake shooting locations that 'Argo' was supposed to be filme
 
 ![40.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i40.jpg)
 
-Noone can actually explain the odd rock formations in Kaluts. Some say it is wind errosion while other speculate the surface was carved by water. I think magic.
+No-one can actually explain the odd rock formations in Kaluts. Some say it is wind errosion while other speculate the surface was carved by water. I think magic.
 
 ---
 
@@ -422,7 +420,7 @@ Persopelis is an ancient city that dates to around 515 BC, and not just that Fre
 
 ![47.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i47.jpg)
 
-Noone will ever understand how it feels to run and climb through a desert that is coincidentally the hottest place in the world snapping photos like a mad man before the sun sets. This landscape is unique to only Iran.
+No-one will ever understand how it feels to run and climb through a desert that is coincidentally the hottest place in the world snapping photos like a mad man before the sun sets. This landscape is unique to only Iran.
 
 > Kaluts, Iran
 
@@ -440,9 +438,7 @@ Sometimes the story is a simple one: cute kid, genuine smile, f/1.4
 
 This is the famed Persepolis, or what Alexander the Great left of it.
 
-http://www.livius.org/aj-al/alexander/alexander_t12.html
-
-"When Alexander returned several years later and saw the ruins, he regretted his act."
+["When Alexander returned several years later and saw the ruins, he regretted his act."](http://www.livius.org/aj-al/alexander/alexander_t12.html)
 
 ---
 
@@ -476,7 +472,7 @@ This is Chogha Zanbil: the best preserved stepped pyramid in the world. The only
 
 ![53.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i53.jpg)
 
-"It has been the site of two of Iran's most epochal protest movements. In 1979, thousands of Iranians gathered in Azadi — which means Freedom — Square for numerous protests that eventually led to the overthrow of the Shah. Almost 30 years later, another generation of Iranians flooded the square, this time trying to start a revolution to throw out the once revolutionary regime."
+"It has been the site of two of Iran's most epochal protest movements. In 1979, thousands of Iranians gathered in Azadi — which means *Freedom* — Square for numerous protests that eventually led to the overthrow of the Shah. Almost 30 years later, another generation of Iranians flooded the square, this time trying to start a revolution to throw out the once revolutionary regime."
 
 http://www.time.com/time/specials/packages/article/0,28804,2047066_2047070_2047074,00.html
 
@@ -488,6 +484,8 @@ http://www.time.com/time/specials/packages/article/0,28804,2047066_2047070_20470
 
 This is the last photo I took in Iran and also the last one I will post.
 
+The election was a couple of days ago and I think I was accidentally let into the country at the wrong time. On my way out, the immigration police detained me for a few hours and interrogated me.
+
 > Grand Bazaar, Tehran, Iran
 
 ## Bonus
@@ -498,7 +496,7 @@ This is the last photo I took in Iran and also the last one I will post.
 
 ![55.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i55.jpg)
 
-I met Daniel for the first time briefly in Morocco. Six months later after some coordinating we met in Bulgaria where we backpacked together through the Balkans. Now almost a year after, I've left Iran, and am now crashing his couch in Berlin.
+I met Daniel for the first time briefly in Morocco. Six months later after some coordinating we met in Bulgaria where we backpacked together through the Balkans. Now almost a year after, I've left Iran, and am crashing on his couch in Berlin.
 
 Small world.
 
