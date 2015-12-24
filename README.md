@@ -223,7 +223,7 @@ So usually having one or two minarets means which type of mosque it is: Sunni or
 
 ![24.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i24.jpg)
 
-This is my Kurdish friend I met in Iran, climbing a massive hill leading to the most famous Zorostrian fire temple, carrying a baby that looks like a balloon filled with ice cream...
+This is my Kurdish friend I met in Iran, climbing a massive hill leading to the most famous Zoroastrian fire temple, carrying a baby that looks like a balloon filled with ice cream...
 
 That is how you smash a thought out.
 
