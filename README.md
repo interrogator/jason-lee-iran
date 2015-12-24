@@ -98,7 +98,7 @@ I love it when someone want me to take a photo of their food. It happens more th
 
 ![10.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i10.jpg)
 
-I had a really nice conversation with an older gentleman while taking this night shot. He explained to me how a few years ago the government built a dam up the river halting all the water in the river. He continued in an even more nonchalant sort of way 'but we went and tore it down so now we have water here again'.
+I had a really nice conversation with an older gentleman while taking this night shot. He explained to me how a few years ago the government built a dam up the river halting all the water in the river. He continued in an even more nonchalant sort of way: ' ... but we went and tore it down, so now we have water here again'.
 
 Lesson: don't mess with Iranians and their rivers.
 
@@ -128,7 +128,7 @@ This is the Imam Khomeini Mosque on the outskirts of Iran. Khomeini's face is pl
 
 ![13.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i13.jpg)
 
-When Westerners imagine Iran, they just think of chadors and hijabs. Even though they may have horrible international relationships, the people inside the country are progressive and want change. Boys rock tattoos and leather jackets while the girls are fashionable and actually wearing too much makeup.
+When Westerners imagine Iran, they just think of chadors and hijabs. Even though the state may have horrible international relationships, the people inside the country are progressive and want change. Boys rock tattoos and leather jackets while the girls are fashionable, even sometimes wearing a bit too much makeup.
 
 The center of Tehran is all guitar shops.
 
@@ -144,7 +144,7 @@ Iranian architecture is the most exquisite I have ever seen. This is the sixth f
 
 ![15.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i15.jpg)
 
-Iran may be the safest I have ever felt in any country I have been to. Read: that includes the US, Canada, and Europe. Every single conversation I had included 'welcome to Iran' somewhere. These guys didn't speak a word of English when we met. They disappeared for a bit and found me as I was walking out to 'welcome to Iran' me proudly. When they disappeared they found someone who spoke English and learned.
+Iran may be the safest I have ever felt in any country I have been to. That includes the US, Canada, and Europe. Every single conversation I had included 'Welcome to Iran' somewhere. These guys didn't speak a word of English when we met. They disappeared for a bit and found me as I was walking out to 'Welcome to Iran' me proudly. When they'd disappeared, they'd gone and found someone who spoke English, and learned.
 
 > Esfahan, Iran
 
@@ -162,7 +162,7 @@ This photo was taken from the famed 'Shaking Minaret' in the middle of the ancie
 
 "In the Zoroastrian tradition, once a body ceases to live, it can immediately be contaminated by demons and made impure. To prevent this infiltration, Zoroastrians purified the dead body by exposing it to the elements and local fowl on top of flat-topped towers in the desert called dakhmas. According to a tradition dating back over 3000 years, bodies were arranged on the towers in three concentric circles. Men were placed in the outer circle, women in the middle and children in the inner-most ring. Bodies were then left until their bones were bleached by the elements."
 
-So, you're telling me that when Reagan was being sworn in as Governor of California Zoroastrians living in Iran were leaving corpses in a tower at the top of a mountain to have their flesh cleaned off by desert vultures as an ancient tradition before burial...!?
+So, you're telling me that when Reagan was being sworn in as Governor of California, Zoroastrians living in Iran were leaving corpses in a tower at the top of a mountain to have their flesh cleaned off by desert vultures as an ancient tradition before burial...!?
 
 I love history.
 
@@ -294,7 +294,7 @@ Neat.
 
 ![31.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i31.jpg)
 
-"...but we have oil up to our eyes! Not our necks but up top to our eyes up here!"
+" ... but we have oil up to our eyes! Not our necks but up top to our eyes up here!"
 
 > Esfahan, Iran, talking about polictics
 
@@ -328,11 +328,15 @@ This is the Lut Desert in Iran and is, on and off, the hottest place on Earth. I
 
 I am actually standing on a river coming from the mountains in the background. It carried salt down into the basin which the sun dried and cracked.
 
+> Lut Desert, Iran
+
 ---
 
 ![36.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i36.jpg)
 
 Here are some of the salt rivers that cover Lut Desert, which is the current hottest place in the world.
+
+> Lut Desert, Iran
 
 ---
 
@@ -360,13 +364,13 @@ This was one of the fake shooting locations that 'Argo' was supposed to be filme
 
 ![40.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i40.jpg)
 
-No-one can actually explain the odd rock formations in Kaluts. Some say it is wind errosion while other speculate the surface was carved by water. I think magic.
+No-one can actually explain the odd rock formations in Kaluts. Some say it is wind errosion, while other speculate the surface was carved by water. I think magic.
 
 ---
 
 ![41.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i41.jpg)
 
-"'...people always think they see an ancient city from far away as they drive towards the Kaluts (kalut means castle) in Iran."
+" ... people always think they see an ancient city from far away as they drive towards the Kaluts (kalut means castle) in Iran."
 
 ---
 
@@ -376,7 +380,6 @@ No-one can actually explain the odd rock formations in Kaluts. Some say it is wi
 By the time I got to Iran from Beijing to Tehran I had already taken over 17,000 photos in 3.5 months. I still had the energy to crawl into a cubby and taken a photo!
 
 > Nasir-el-Molk Mosque, the most photographed mosque in southern Iran
-
 
 ---
 
@@ -470,7 +473,7 @@ This is Chogha Zanbil: the best preserved stepped pyramid in the world. The only
 
 ["It has been the site of two of Iran's most epochal protest movements. In 1979, thousands of Iranians gathered in Azadi — which means *Freedom* — Square for numerous protests that eventually led to the overthrow of the Shah. Almost 30 years later, another generation of Iranians flooded the square, this time trying to start a revolution to throw out the once revolutionary regime."](http://www.time.com/time/specials/packages/article/0,28804,2047066_2047070_2047074,00.html)
 
-> Azadi Square, Tehran
+> Azadi Square, Tehran, Iran
 
 ---
 
