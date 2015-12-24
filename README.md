@@ -70,9 +70,7 @@ I stopped him somewhere at this point. I think he kept losing his place and star
 
 ![07.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i07.jpg)
 
-"It would be foolish for an American to come by and gawk at the 'Den of Espionage,' the Iranian government's name for the former U.S. Embassy in the Islamic Republic's capital."
-
-http://www.time.com/time/world/article/0,8599,1910361,00.html
+["It would be foolish for an American to come by and gawk at the 'Den of Espionage,' the Iranian government's name for the former U.S. Embassy in the Islamic Republic's capital."](http://www.time.com/time/world/article/0,8599,1910361,00.html)
 
 It is okay, as people just assume I'm Chinese, or even Afghan. I was told that my visa to Iran was only approved because I'm "Asian face". Read: not White.
 
@@ -160,9 +158,7 @@ This photo was taken from the famed 'Shaking Minaret' in the middle of the ancie
 
 ![17.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i17.jpg)
 
-"Until 40 years ago, corpses could still be found on top of the Towers of Silence in Yazd, slowly disintegrating or being picked apart by desert vultures."
-
-http://www.atlasobscura.com/places/zoroastrian-towers-of-silence
+["Until 40 years ago, corpses could still be found on top of the Towers of Silence in Yazd, slowly disintegrating or being picked apart by desert vultures."](http://www.atlasobscura.com/places/zoroastrian-towers-of-silence)
 
 "In the Zoroastrian tradition, once a body ceases to live, it can immediately be contaminated by demons and made impure. To prevent this infiltration, Zoroastrians purified the dead body by exposing it to the elements and local fowl on top of flat-topped towers in the desert called dakhmas. According to a tradition dating back over 3000 years, bodies were arranged on the towers in three concentric circles. Men were placed in the outer circle, women in the middle and children in the inner-most ring. Bodies were then left until their bones were bleached by the elements."
 
@@ -472,9 +468,7 @@ This is Chogha Zanbil: the best preserved stepped pyramid in the world. The only
 
 ![53.](https://raw.githubusercontent.com/interrogator/jason-lee-iran/master/photos/i53.jpg)
 
-"It has been the site of two of Iran's most epochal protest movements. In 1979, thousands of Iranians gathered in Azadi — which means *Freedom* — Square for numerous protests that eventually led to the overthrow of the Shah. Almost 30 years later, another generation of Iranians flooded the square, this time trying to start a revolution to throw out the once revolutionary regime."
-
-http://www.time.com/time/specials/packages/article/0,28804,2047066_2047070_2047074,00.html
+["It has been the site of two of Iran's most epochal protest movements. In 1979, thousands of Iranians gathered in Azadi — which means *Freedom* — Square for numerous protests that eventually led to the overthrow of the Shah. Almost 30 years later, another generation of Iranians flooded the square, this time trying to start a revolution to throw out the once revolutionary regime."](http://www.time.com/time/specials/packages/article/0,28804,2047066_2047070_2047074,00.html)
 
 > Azadi Square, Tehran
 
